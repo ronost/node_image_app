@@ -1,0 +1,10 @@
+{
+  "name"         : "node-image-app",
+  "version"      : "0.0.0",
+  "description"  : "Simple randomize image app with favorites feature.",
+  "main"         : "server.js",
+  "author"       : "ronnyo",
+  "dependencies" : {
+    "express"        : "^4.14.0"
+  }
+}
