@@ -2,3 +2,6 @@
 
 Generate img "db":
 mkdir db && ./gen-json.py ./public/img/ > db/img.json
+
+Run:
+node app.js
